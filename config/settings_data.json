@@ -9,10 +9,12 @@
  */
 {
   "current": {
-    "logo_width": 90,
-    "type_header_font": "assistant_n4",
+    "logo": "shopify://shop_images/GetLost_Logo_WhiteShadow_PurpleCircle_RGB_001.png",
+    "logo_width": 50,
+    "favicon": "shopify://shop_images/favicon_4694d0ed-5c89-499d-aefc-b5ad05d48d3c.png",
+    "type_header_font": "poppins_n7",
     "heading_scale": 100,
-    "type_body_font": "assistant_n4",
+    "type_body_font": "roboto_n5",
     "body_scale": 100,
     "page_width": 1200,
     "spacing_sections": 0,
