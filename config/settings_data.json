@@ -195,6 +195,17 @@
       },
       "scheme-4a1aef84-d664-4cf9-b68e-13199d9e81e0": {
         "settings": {
+          "background": "#6D5ABF",
+          "background_gradient": "",
+          "text": "#FFFFFF",
+          "button": "#6D5ABF",
+          "button_label": "#6D5ABF",
+          "secondary_button_label": "#6D5ABF",
+          "shadow": "#121212"
+        }
+      },
+      "scheme-60594314-f727-4a45-a432-15cba79d0e66": {
+        "settings": {
           "background": "#ffffff",
           "background_gradient": "",
           "text": "#121212",
