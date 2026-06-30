@@ -103,8 +103,8 @@
     "drawer_shadow_blur": 5,
     "badge_position": "bottom left",
     "badge_corner_radius": 40,
-    "sale_badge_color_scheme": "scheme-5",
-    "sold_out_badge_color_scheme": "scheme-3",
+    "sale_badge_color_scheme": "scheme-4a1aef84-d664-4cf9-b68e-13199d9e81e0",
+    "sold_out_badge_color_scheme": "scheme-4a1aef84-d664-4cf9-b68e-13199d9e81e0",
     "brand_headline": "Get Lost Cycling",
     "brand_image": "shopify://shop_images/GetLost_Logo_WhiteShadow_PurpleCircle_RGB_001.png",
     "social_facebook_link": "",
@@ -211,9 +211,9 @@
           "background": "#ffffff",
           "background_gradient": "",
           "text": "#121212",
-          "button": "#121212",
-          "button_label": "#ffffff",
-          "secondary_button_label": "#121212",
+          "button": "#6D5ABF",
+          "button_label": "#FFFFFF",
+          "secondary_button_label": "#6D5ABF",
           "shadow": "#121212"
         }
       }
