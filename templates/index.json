@@ -15,7 +15,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "GET LOST",
+            "heading": "Get Lost",
             "heading_size": "h0"
           }
         },
@@ -45,7 +45,7 @@
       ],
       "settings": {
         "image": "shopify://shop_images/KG58493-R1-013-5.jpg",
-        "image_overlay_opacity": 40,
+        "image_overlay_opacity": 50,
         "image_height": "large",
         "image_behavior": "none",
         "desktop_content_position": "bottom-left",
