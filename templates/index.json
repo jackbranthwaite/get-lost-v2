@@ -63,20 +63,13 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Talk about your brand",
+            "heading": "Your Local Bike Shop",
             "heading_size": "h1"
-          }
-        },
-        "text": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>"
           }
         }
       },
       "block_order": [
-        "heading",
-        "text"
+        "heading"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -85,6 +78,54 @@
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 0
+      }
+    },
+    "image_with_text_WBnADi": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_ghzxWM": {
+          "type": "heading",
+          "settings": {
+            "heading": "Servicing",
+            "heading_size": "h1"
+          }
+        },
+        "text_yLHKkk": {
+          "type": "text",
+          "settings": {
+            "text": "<p>No two bikes are exactly the same, which is why we tailor our service to every job. With three full-time mechanics, a bespoke workshop, and over 50 years of combined experience, there's nothing we can't fix!</p>",
+            "text_style": "body"
+          }
+        },
+        "button_fxkrNR": {
+          "type": "button",
+          "settings": {
+            "button_label": "Book Now",
+            "button_link": "shopify://pages/servicing",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_ghzxWM",
+        "text_yLHKkk",
+        "button_fxkrNR"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/IG_lewisferris_-75.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "image_behavior": "none",
+        "content_layout": "no-overlap",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "scheme-1",
+        "color_scheme": "scheme-1",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "featured_collection": {
@@ -225,6 +266,7 @@
   "order": [
     "image_banner",
     "rich_text",
+    "image_with_text_WBnADi",
     "featured_collection",
     "collage",
     "video",
